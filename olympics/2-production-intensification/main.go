@@ -10,7 +10,7 @@ import (
 func main() {
 	startDateString := "01.01.1901"
 	endDateString := "09.04.2065"
-	startRate := 5000
+	startRate := 4321
 
 	startDate := stringToDate(startDateString)
 	endDate := stringToDate(endDateString)
